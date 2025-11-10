@@ -1,6 +1,6 @@
 # This file uses centimeters as units for non-parametric coordinates.
 
-mtllib zoo.mtl
+mtllib ZOO CON MATERIAL.mtl
 g default
 v -829.859719 303.857336 -1873.864260
 v -589.676735 303.857336 -1873.864260
@@ -784,7 +784,7 @@ vn 0.021691 0.999293 0.030713
 vn 0.021952 0.999294 -0.030485
 s off
 g caja_futurista___Almudena:caja_futurista_01
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 25/1/1 26/2/2 29/3/3 30/4/4
 f 31/5/5 32/6/6 35/7/7 36/8/8
 f 37/9/9 40/10/10 41/11/11 42/12/12
@@ -1277,7 +1277,7 @@ vn 0.000000 1.000000 0.000000
 vn 0.000000 1.000000 0.000000
 s 1
 g suelo_800x700 group1
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 129/149/505 130/150/506 141/161/507 140/160/508
 f 130/150/506 131/151/509 142/162/510 141/161/507
 f 131/151/509 132/152/511 143/163/512 142/162/510
@@ -2235,7 +2235,7 @@ vn 0.000000 0.000000 -1.000000
 vn 0.000000 0.000000 -1.000000
 s 1
 g group1 suelo_600x225
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 371/512/626 372/513/627 373/282/628 374/514/629
 f 372/513/627 375/515/630 376/283/631 373/282/628
 f 375/515/630 377/516/632 378/284/633 376/283/631
@@ -3359,7 +3359,7 @@ vn 0.000000 -0.341187 -0.939996
 vn 0.000000 -0.341187 -0.939996
 s 1
 g group1 rampa_600x100
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 613/794/956 614/795/957 615/564/958 616/796/959
 f 614/795/957 617/797/960 618/565/961 615/564/958
 f 617/797/960 619/798/962 620/566/963 618/565/961
@@ -3675,7 +3675,7 @@ vn -0.804216 -0.594337 0.000000
 vn -0.804216 -0.594337 0.000000
 s off
 g group1 rampa_400x75
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 734/834/1286 735/835/1287 737/837/1288 736/836/1289
 f 736/836/1290 737/837/1291 739/839/1292 738/838/1293
 f 738/838/1294 739/839/1295 741/841/1296 740/840/1297
@@ -4574,7 +4574,7 @@ vn 0.000000 0.000000 0.000000
 vn 0.000000 0.000000 0.000000
 s 1
 g group1 suelo2_600x600
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 742/848/1310 743/849/1311 754/860/1312 753/859/1313
 f 743/849/1311 744/850/1314 755/861/1315 754/860/1312
 f 744/850/1314 745/851/1316 756/862/1317 755/861/1315
@@ -5257,7 +5257,7 @@ vn 0.000000 0.000000 -1.000000
 vn 0.000000 0.000000 -1.000000
 s 1
 g group1 suelo3_600x600
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 959/1065/1765 960/1066/1766 971/1077/1767 970/1076/1768
 f 960/1066/1766 961/1067/1769 972/1078/1770 971/1077/1767
 f 961/1067/1769 962/1068/1771 973/1079/1772 972/1078/1770
@@ -5618,7 +5618,7 @@ vn 0.999701 -0.024456 0.000000
 vn 0.999701 -0.024456 0.000000
 s 1
 g group1 maquina_expendedora
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 1094/1200/1930 1130/1252/1931 1131/1254/1932 1096/1202/1933
 s 2
 f 1096/1202/1934 1131/1254/1935 1132/1255/1936 1102/1215/1937
@@ -6535,7 +6535,7 @@ vn 0.000000 0.514496 0.857493
 vn 0.000000 0.514496 0.857493
 s off
 g group1 cubo_futurista
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 1200/1270/2038 1201/1354/2039 1202/1355/2040 1203/1356/2041
 f 1207/1272/2042 1208/1357/2043 1209/1358/2044 1210/1359/2045
 f 1214/1360/2046 1215/1361/2047 1216/1362/2048 1217/1276/2049
@@ -8230,7 +8230,7 @@ vn -0.995029 -0.000049 -0.099582
 vn -0.995029 -0.000048 -0.099582
 s 1
 g Maria:Puerta group2
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 1308/1486/2566 1309/1487/2567 1288/1454/2568 1289/1455/2569
 s 2
 f 1282/1442/2570 1283/1443/2571 1358/1546/2572 1359/1549/2573
@@ -13164,7 +13164,7 @@ vn -0.108228 -0.972849 -0.204578
 vn -0.108228 -0.972849 -0.204578
 s 1
 g group2 Maria:Placa_metal
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 1689/1918/3239 1691/1917/3240 1795/2084/3241 1794/2031/3242
 s off
 f 1690/2064/3243 1689/1918/3244 1694/1921/3245 1693/1919/3246
@@ -15495,7 +15495,7 @@ vn 1.000000 0.000000 0.000000
 vn 1.000000 0.000000 0.000000
 s 1
 g group2 Maria:Grupo_ladrillos_pequeño_2
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 2663/3301/5287 2664/3302/5288 2657/3291/5289 2658/3292/5290
 s 2
 f 2651/3279/5291 2652/3280/5292 2665/3303/5293 2666/3306/5294
@@ -16144,7 +16144,7 @@ vn 1.000000 0.000000 0.000000
 vn 1.000000 0.000000 0.000000
 s 1
 g group2 Maria:Grupos_ladrillos_pequeño_3
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 2791/3501/5543 2792/3502/5544 2785/3491/5545 2786/3492/5546
 s 2
 f 2779/3479/5547 2780/3480/5548 2793/3503/5549 2794/3506/5550
@@ -17763,7 +17763,7 @@ vn -0.991957 0.000000 0.126571
 vn -0.991957 0.000000 0.126575
 s 1
 g group2 Maria:Grupo_ladrillos_grande
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 2887/3651/5735 2888/3652/5736 2881/3641/5737 2882/3642/5738
 s 2
 f 2875/3629/5739 2876/3630/5740 2889/3653/5741 2890/3656/5742
@@ -18724,7 +18724,7 @@ vn 1.000000 -0.000002 0.000000
 vn 1.000000 0.000000 0.000000
 s 1
 g group2 Maria:Tablones_2
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 3207/4151/6375 3208/4152/6376 3201/4141/6377 3202/4142/6378
 s 2
 f 3195/4129/6379 3196/4130/6380 3209/4153/6381 3210/4156/6382
@@ -19175,7 +19175,7 @@ vn 1.000000 -0.000002 0.000000
 vn 1.000000 0.000000 0.000000
 s 1
 g group2 Maria:Tablones_1
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 3303/4301/6567 3304/4302/6568 3297/4291/6569 3298/4292/6570
 s 2
 f 3291/4279/6571 3292/4280/6572 3305/4303/6573 3306/4306/6574
@@ -20031,7 +20031,7 @@ vn 0.809013 0.000000 -0.587791
 vn 0.951057 0.000000 -0.309014
 s 1
 g group2 Maria:Botella_1
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 3353/4397/6695 3354/4398/6696 3513/4579/6697 3514/4581/6698
 f 3354/4398/6696 3355/4399/6699 3512/4578/6700 3513/4579/6697
 f 3355/4399/6699 3356/4400/6701 3511/4577/6702 3512/4578/6700
@@ -21236,7 +21236,7 @@ vn 0.999870 -0.000000 0.016154
 vn 0.999870 -0.000000 0.016154
 s off
 g group2 Maria:Ventana
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 3535/4602/7037 3536/4603/7038 3538/4605/7039 3537/4604/7040
 f 3537/4604/7041 3538/4605/7042 3540/4607/7043 3539/4606/7044
 f 3539/4606/7045 3540/4607/7046 3542/4609/7047 3541/4608/7048
@@ -21704,7 +21704,7 @@ vn -0.071047 0.000000 0.997473
 vn -0.071047 0.000000 0.997473
 s 1
 g Gregory:EscenarioGregAssets:pCube1 group3
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 3757/4896/7513 3756/4897/7514 3752/4898/7515 3748/4899/7516
 s off
 f 3741/4860/7517 3742/4861/7518 3744/4863/7519 3743/4862/7520
@@ -21910,7 +21910,7 @@ vn 0.000000 0.000000 -0.000000
 vn 0.000000 0.000000 -0.000000
 s 1
 g group3 Gregory:EscenarioGregAssets:pCube3
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 3777/4946/7569 3776/4947/7570 3772/4948/7571 3768/4949/7572
 s off
 f 3761/4910/7573 3762/4911/7574 3764/4913/7575 3763/4912/7576
@@ -21995,7 +21995,7 @@ vn 0.999934 0.000000 0.011464
 vn 0.999934 0.000000 0.011464
 s off
 g group3 Gregory:EscenarioGregAssets:pCube4
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 3787/4970/7657 3788/4971/7658 3790/4973/7659 3789/4972/7660
 f 3789/4972/7661 3790/4973/7662 3792/4975/7663 3791/4974/7664
 f 3791/4974/7665 3792/4975/7666 3794/4977/7667 3793/4976/7668
@@ -22051,7 +22051,7 @@ vn 0.995745 0.000000 0.092153
 vn 0.995745 0.000000 0.092153
 s off
 g group3 Gregory:EscenarioGregAssets:pCube6
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 3795/4984/7681 3796/4985/7682 3798/4987/7683 3797/4986/7684
 f 3797/4986/7685 3798/4987/7686 3800/4989/7687 3799/4988/7688
 f 3799/4988/7689 3800/4989/7690 3802/4991/7691 3801/4990/7692
@@ -23949,7 +23949,7 @@ vn -0.037390 0.000000 0.999301
 vn -0.037390 0.000000 0.999301
 s off
 g group3 Gregory:EscenarioGregAssets:pCube7
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 3879/5079/7705 3880/5080/7706 3881/5081/7707 3882/5082/7708
 s 1
 f 3855/5058/7709 3856/5055/7710 3951/5199/7711 3952/5200/7712
@@ -24992,7 +24992,7 @@ vn -0.071047 0.000000 0.997473
 vn -0.071047 0.000000 0.997473
 s 1
 g group3 Gregory:EscenarioGregAssets:pCube8
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 4141/5588/8665 4142/5589/8666 4157/5617/8667 4153/5610/8668
 s 2
 f 4143/5590/8669 4144/5591/8670 4152/5608/8671 4149/5603/8672
@@ -25678,7 +25678,7 @@ vn -0.071047 0.000000 0.997473
 vn -0.071047 0.000000 0.997473
 s 1
 g group3 Gregory:EscenarioGregAssets:pCube11
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 4239/5766/8867 4240/5767/8868 4255/5795/8869 4251/5788/8870
 s 2
 f 4241/5768/8871 4242/5769/8872 4250/5786/8873 4247/5781/8874
@@ -26051,7 +26051,7 @@ vn -0.000000 1.000000 0.000000
 vn -0.000000 1.000000 0.000000
 s 1
 g group3 Gregory:EscenarioGregAssets:pCylinder1
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 4337/6007/9069 4338/6008/9070 4358/6029/9071 4357/6028/9072
 f 4338/6008/9070 4339/6009/9073 4359/6030/9074 4358/6029/9071
 f 4339/6009/9073 4340/6010/9075 4360/6031/9076 4359/6030/9074
@@ -26325,7 +26325,7 @@ vn -0.000000 1.000000 0.000000
 vn -0.000000 1.000000 0.000000
 s 1
 g group3 Gregory:EscenarioGregAssets:pCylinder2
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 4379/6091/9151 4380/6092/9152 4400/6113/9153 4399/6112/9154
 f 4380/6092/9152 4381/6093/9155 4401/6114/9156 4400/6113/9153
 f 4381/6093/9155 4382/6094/9157 4402/6115/9158 4401/6114/9156
@@ -26599,7 +26599,7 @@ vn -0.000000 1.000000 0.000000
 vn -0.000000 1.000000 0.000000
 s 1
 g group3 Gregory:EscenarioGregAssets:pCylinder3
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 4421/6175/9233 4422/6176/9234 4442/6197/9235 4441/6196/9236
 f 4422/6176/9234 4423/6177/9237 4443/6198/9238 4442/6197/9235
 f 4423/6177/9237 4424/6178/9239 4444/6199/9240 4443/6198/9238
@@ -26873,7 +26873,7 @@ vn -0.000000 -0.000000 1.000000
 vn -0.000000 -0.000000 1.000000
 s 1
 g group3 Gregory:EscenarioGregAssets:pCylinder6
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 4463/6259/9315 4464/6260/9316 4484/6281/9317 4483/6280/9318
 f 4464/6260/9316 4465/6261/9319 4485/6282/9320 4484/6281/9317
 f 4465/6261/9319 4466/6262/9321 4486/6283/9322 4485/6282/9320
@@ -27147,7 +27147,7 @@ vn -0.203695 0.058734 0.977271
 vn -0.203695 0.058734 0.977271
 s 1
 g group3 Gregory:EscenarioGregAssets:pCylinder7
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 4505/6343/9397 4506/6344/9398 4526/6365/9399 4525/6364/9400
 f 4506/6344/9398 4507/6345/9401 4527/6366/9402 4526/6365/9399
 f 4507/6345/9401 4508/6346/9403 4528/6367/9404 4527/6366/9402
@@ -27339,7 +27339,7 @@ vn -0.135775 0.000000 0.990740
 vn -0.135775 0.000000 0.990740
 s 1
 g group3 Gregory:EscenarioGregAssets:pCube16
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 4565/6445/9479 4564/6446/9480 4560/6447/9481 4556/6448/9482
 s off
 f 4549/6409/9483 4550/6410/9484 4552/6412/9485 4551/6411/9486
@@ -27903,7 +27903,7 @@ vn 0.000000 -1.000000 0.000000
 vn 0.000000 -1.000000 0.000000
 s 1
 g group3 Gregory:EscenarioGregAssets:pCube30
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 4623/6536/9535 4624/6533/9536 4625/6534/9537 4626/6535/9538
 s 2
 f 4627/6540/9539 4628/6537/9540 4629/6538/9541 4630/6539/9542
@@ -28591,7 +28591,7 @@ vn 0.000000 -1.000000 0.000000
 vn 0.000000 -1.000000 0.000000
 s 1
 g group3 Gregory:EscenarioGregAssets:pCube31
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 4727/6664/9839 4728/6661/9840 4729/6662/9841 4730/6663/9842
 s 2
 f 4731/6668/9843 4732/6665/9844 4733/6666/9845 4734/6667/9846
@@ -29279,7 +29279,7 @@ vn 0.000000 -1.000000 0.000000
 vn 0.000000 -1.000000 0.000000
 s 1
 g group3 Gregory:EscenarioGregAssets:pCube32
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 4831/6792/10143 4832/6789/10144 4833/6790/10145 4834/6791/10146
 s 2
 f 4835/6796/10147 4836/6793/10148 4837/6794/10149 4838/6795/10150
@@ -29815,7 +29815,7 @@ vn -0.037623 0.999289 0.002403
 vn -0.037623 0.999289 0.002403
 s 1
 g group3 Gregory:EscenarioGregAssets:pCube33
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 4879/6841/10447 4880/6842/10448 4902/6878/10449 4897/6871/10450
 s 2
 f 4881/6843/10451 4882/6844/10452 4896/6869/10453 4891/6862/10454
@@ -30467,7 +30467,7 @@ vn -0.978504 -0.191740 0.075933
 vn 0.978505 0.191735 -0.075933
 s 1
 g group3 Gregory:EscenarioGregAssets:pCube35
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 5041/7042/10639 5042/7039/10640 5043/7040/10641 5044/7041/10642
 s 2
 f 5045/7046/10643 5046/7043/10644 5047/7044/10645 5048/7045/10646
@@ -30871,7 +30871,7 @@ vn 0.181972 -0.126496 0.975133
 vn 0.181972 -0.126496 0.975133
 s 1
 g group3 Gregory:EscenarioGregAssets:pCube36
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 5059/7137/10843 5060/7138/10844 5082/7168/10845 5079/7163/10846
 s off
 f 5071/7155/10847 5072/7156/10848 5073/7157/10849 5074/7158/10850
@@ -31200,7 +31200,7 @@ vn 0.000000 1.000000 0.000000
 vn 0.000000 1.000000 0.000000
 s off
 g sueloFuturista___Almudena1:suelo_futurista_01 group4
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 5140/7185/10983 5153/7186/10984 5154/7187/10985 5100/7188/10986
 f 5141/7189/10987 5142/7190/10988 5102/7191/10989 5101/7192/10990
 f 5142/7190/10991 5143/7193/10992 5136/7194/10993 5102/7191/10994
@@ -31884,7 +31884,7 @@ vn 0.000000 1.000000 0.000000
 vn 0.000000 1.000000 0.000000
 s off
 g group4 sueloFuturista___Almudena1:suelo_futurista_02
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 5158/7244/11135 5159/7245/11136 5170/7246/11137 5169/7247/11138
 f 5159/7245/11139 5160/7248/11140 5171/7249/11141 5170/7246/11142
 f 5160/7248/11143 5161/7250/11144 5172/7251/11145 5171/7249/11146
@@ -32630,7 +32630,7 @@ vn 0.000000 1.000000 0.000000
 vn 0.000000 1.000000 0.000000
 s off
 g group4 sueloFuturista___Almudena1:suelo_futurista_03
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 5279/7365/11535 5280/7366/11536 5291/7367/11537 5290/7368/11538
 f 5280/7366/11539 5281/7369/11540 5292/7370/11541 5291/7367/11542
 f 5281/7369/11543 5282/7371/11544 5293/7372/11545 5292/7370/11546
@@ -35132,7 +35132,7 @@ vn 0.000000 1.000000 0.000000
 vn 0.000000 1.000000 0.000000
 s off
 g group4 sueloFuturista___Almudena1:suelo_futurista_04
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 5400/7486/11935 5401/7487/11936 5412/7488/11937 5411/7489/11938
 f 5401/7487/11939 5402/7490/11940 5413/7491/11941 5412/7488/11942
 f 5402/7490/11943 5403/7492/11944 5414/7493/11945 5413/7491/11946
@@ -36432,7 +36432,7 @@ vn 0.000000 0.000000 -1.000000
 vn 0.000000 0.000000 -1.000000
 s 1
 g group1 pasted__pPlane6 suelo_600x600
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 5949/8592/13103 5950/8593/13104 5951/8387/13105 5952/8594/13106
 f 5950/8593/13104 5953/8595/13107 5954/8388/13108 5951/8387/13105
 f 5953/8595/13107 5955/8596/13109 5956/8389/13110 5954/8388/13108
@@ -36922,7 +36922,7 @@ vn 0.002503 -0.999997 0.000000
 vn 0.002503 -0.999997 0.000000
 s 1
 g group2 Maria:pasted__pCylinder1 Maria:Cubo_basura
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 5982/8636/13625 5983/8637/13626 6003/8658/13627 6002/8657/13628
 f 5983/8637/13626 5984/8638/13629 6004/8659/13630 6003/8658/13627
 f 5984/8638/13629 5985/8639/13631 6005/8660/13632 6004/8659/13630
@@ -37196,7 +37196,7 @@ vn -0.000000 1.000000 0.000000
 vn -0.000000 1.000000 0.000000
 s 1
 g group2 Maria:Cubo_basura Maria:pCylinder1
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 6024/8720/13707 6025/8721/13708 6045/8742/13709 6044/8741/13710
 f 6025/8721/13708 6026/8722/13711 6046/8743/13712 6045/8742/13709
 f 6026/8722/13711 6027/8723/13713 6047/8744/13714 6046/8743/13712
@@ -38011,7 +38011,7 @@ vn 0.809013 0.000000 -0.587791
 vn 0.951057 0.000000 -0.309014
 s 1
 g group2 Maria:pasted__pCylinder2 Maria:Botella_2
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 6066/8804/13789 6067/8805/13790 6226/8986/13791 6227/8988/13792
 f 6067/8805/13790 6068/8806/13793 6225/8985/13794 6226/8986/13791
 f 6068/8806/13793 6069/8807/13795 6224/8984/13796 6225/8985/13794
@@ -38526,7 +38526,7 @@ vn 0.000000 1.000000 -0.000000
 vn 0.000000 1.000000 -0.000000
 s 1
 g group2 Maria:pasted__pasted__Pared_simple Maria:pasted__group Maria:Pared_simple_abandonado
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 6248/9009/14131 6249/9010/14132 6256/9023/14133 6257/9024/14134
 s 2
 f 6295/9073/14135 6296/9074/14136 6253/9014/14137 6252/9013/14138
@@ -38771,7 +38771,7 @@ vn 1.000000 0.000000 0.000000
 vn 1.000000 0.000000 0.000000
 s 1
 g group2 Maria:pasted__pasted__pasted__pasted__pasted__pasted__pCube2 Maria:pasted__Tablones_2 Maria:group45 Maria:Pared_tablones
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 6318/9107/14247 6319/9108/14248 6312/9097/14249 6313/9098/14250
 s 2
 f 6306/9085/14251 6307/9086/14252 6320/9109/14253 6321/9112/14254
@@ -38972,7 +38972,7 @@ vn 1.000000 0.000000 0.000000
 vn 1.000000 0.000000 0.000000
 s 1
 g group2 Maria:pasted__Tablones_2 Maria:group45 Maria:Pared_tablones Maria:pasted__pasted__pasted__pasted__pasted__pCube2
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 6350/9157/14311 6351/9158/14312 6344/9147/14313 6345/9148/14314
 s 2
 f 6338/9135/14315 6339/9136/14316 6352/9159/14317 6353/9162/14318
@@ -39173,7 +39173,7 @@ vn 1.000000 0.000000 0.000000
 vn 1.000000 0.000000 0.000000
 s 1
 g group2 Maria:pasted__Tablones_2 Maria:group45 Maria:Pared_tablones Maria:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube2
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 6382/9207/14375 6383/9208/14376 6376/9197/14377 6377/9198/14378
 s 2
 f 6370/9185/14379 6371/9186/14380 6384/9209/14381 6385/9212/14382
@@ -39374,7 +39374,7 @@ vn 1.000000 0.000000 0.000000
 vn 1.000000 0.000000 0.000000
 s 1
 g group2 Maria:pasted__Tablones_2 Maria:group45 Maria:Pared_tablones pasted__pasted__pasted__pasted__pasted__pasted__pCube2
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 6414/9257/14439 6415/9258/14440 6408/9247/14441 6409/9248/14442
 s 2
 f 6402/9235/14443 6403/9236/14444 6416/9259/14445 6417/9262/14446
@@ -39575,7 +39575,7 @@ vn 1.000000 0.000000 0.000000
 vn 1.000000 0.000000 0.000000
 s 1
 g group2 Maria:Pared_tablones Maria:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube2 Maria:pasted__Tablones_1 Maria:group46
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 6446/9307/14503 6447/9308/14504 6440/9297/14505 6441/9298/14506
 s 2
 f 6434/9285/14507 6435/9286/14508 6448/9309/14509 6449/9312/14510
@@ -39776,7 +39776,7 @@ vn 1.000000 0.000000 0.000000
 vn 1.000000 0.000000 0.000000
 s 1
 g group2 Maria:Pared_tablones Maria:pasted__Tablones_1 Maria:group46 Maria:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube3
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 6478/9357/14567 6479/9358/14568 6472/9347/14569 6473/9348/14570
 s 2
 f 6466/9335/14571 6467/9336/14572 6480/9359/14573 6481/9362/14574
@@ -39977,7 +39977,7 @@ vn -0.999924 0.000000 0.012328
 vn -0.999924 0.000000 0.012328
 s 1
 g group2 Maria:pasted__pasted__pasted__pCube2 Maria:pasted__grupo_ladrillos_pequeño_1 Maria:group39 Maria:Pared_ladrillos
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 6510/9407/14631 6511/9408/14632 6504/9397/14633 6505/9398/14634
 s 2
 f 6498/9385/14635 6499/9386/14636 6512/9409/14637 6513/9412/14638
@@ -40178,7 +40178,7 @@ vn -0.999924 0.000000 0.012328
 vn -0.999924 0.000000 0.012328
 s 1
 g group2 Maria:pasted__grupo_ladrillos_pequeño_1 Maria:group39 Maria:Pared_ladrillos Maria:pasted__pasted__pasted__pCube3
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 6542/9457/14695 6543/9458/14696 6536/9447/14697 6537/9448/14698
 s 2
 f 6530/9435/14699 6531/9436/14700 6544/9459/14701 6545/9462/14702
@@ -40379,7 +40379,7 @@ vn -0.999924 0.000000 0.012328
 vn -0.999924 0.000000 0.012328
 s 1
 g group2 Maria:pasted__grupo_ladrillos_pequeño_1 Maria:group39 Maria:Pared_ladrillos Maria:pasted__pasted__pCube2
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 6574/9507/14759 6575/9508/14760 6568/9497/14761 6569/9498/14762
 s 2
 f 6562/9485/14763 6563/9486/14764 6576/9509/14765 6577/9512/14766
@@ -40580,7 +40580,7 @@ vn -0.999924 0.000000 0.012328
 vn -0.999924 0.000000 0.012328
 s 1
 g group2 Maria:pasted__grupo_ladrillos_pequeño_1 Maria:group39 Maria:Pared_ladrillos Maria:pasted__pasted__pasted__pasted__pCube2
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 6606/9557/14823 6607/9558/14824 6600/9547/14825 6601/9548/14826
 s 2
 f 6594/9535/14827 6595/9536/14828 6608/9559/14829 6609/9562/14830
@@ -40881,7 +40881,7 @@ vn 0.000000 1.000000 -0.000000
 vn 0.000000 1.000000 -0.000000
 s 1
 g group2 Maria:pasted__pasted__pasted__Pared_simple Maria:pasted__pasted__group Maria:pasted__group13 Maria:Pared_pequeña_simple_abandonado
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 6624/9583/14887 6625/9584/14888 6632/9597/14889 6633/9598/14890
 s 2
 f 6671/9647/14891 6672/9648/14892 6629/9588/14893 6628/9587/14894
@@ -41226,7 +41226,7 @@ vn -0.000000 1.000000 0.000000
 vn -0.000000 1.000000 0.000000
 s 1
 g group2 Maria:Pared_ladrillos Maria:pasted__pasted__pasted__Pared_simple Maria:pasted__pasted__group Maria:pasted__Pared_simple_abandonado Maria:group37
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 6680/9657/15003 6681/9658/15004 6688/9671/15005 6689/9672/15006
 s 2
 f 6727/9721/15007 6728/9722/15008 6685/9662/15009 6684/9661/15010
@@ -41471,7 +41471,7 @@ vn -0.999924 0.000000 0.012328
 vn -0.999924 0.000000 0.012328
 s 1
 g group2 Maria:Pared_ladrillos Maria:pasted__pCube2 Maria:pasted__Grupo_ladrillos_grande Maria:pasted__Grupo_ladrillos_grande Maria:group40
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 6750/9755/15119 6751/9756/15120 6744/9745/15121 6745/9746/15122
 s 2
 f 6738/9733/15123 6739/9734/15124 6752/9757/15125 6753/9760/15126
@@ -41672,7 +41672,7 @@ vn -0.999924 0.000000 0.012328
 vn -0.999924 0.000000 0.012328
 s 1
 g group2 Maria:Pared_ladrillos Maria:pasted__pasted__pasted__pasted__pasted__pCube2 Maria:pasted__pasted__grupo_ladrillos_pequeño_1 Maria:pasted__group39 Maria:group41
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 6782/9805/15183 6783/9806/15184 6776/9795/15185 6777/9796/15186
 s 2
 f 6770/9783/15187 6771/9784/15188 6784/9807/15189 6785/9810/15190
@@ -41873,7 +41873,7 @@ vn -0.999924 0.000000 0.012328
 vn -0.999924 0.000000 0.012328
 s 1
 g group2 Maria:Pared_ladrillos Maria:pasted__pasted__pasted__pasted__pasted__pCube2 Maria:pasted__pasted__grupo_ladrillos_pequeño_1 Maria:pasted__group39 Maria:group42
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 6814/9855/15247 6815/9856/15248 6808/9845/15249 6809/9846/15250
 s 2
 f 6802/9833/15251 6803/9834/15252 6816/9857/15253 6817/9860/15254
@@ -42074,7 +42074,7 @@ vn -0.999924 0.000000 0.012328
 vn -0.999924 0.000000 0.012328
 s 1
 g group2 Maria:Pared_ladrillos Maria:pasted__pasted__pasted__pasted__pasted__pCube2 Maria:pasted__pasted__grupo_ladrillos_pequeño_1 Maria:pasted__group39 Maria:group43
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 6846/9905/15311 6847/9906/15312 6840/9895/15313 6841/9896/15314
 s 2
 f 6834/9883/15315 6835/9884/15316 6848/9907/15317 6849/9910/15318
@@ -42275,7 +42275,7 @@ vn -0.999924 0.000000 0.012328
 vn -0.999924 0.000000 0.012328
 s 1
 g group2 Maria:Pared_ladrillos Maria:pasted__pasted__pasted__pasted__pasted__pCube2 Maria:pasted__pasted__grupo_ladrillos_pequeño_1 Maria:pasted__group39 Maria:group44
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 6878/9955/15375 6879/9956/15376 6872/9945/15377 6873/9946/15378
 s 2
 f 6866/9933/15379 6867/9934/15380 6880/9957/15381 6881/9960/15382
@@ -42576,7 +42576,7 @@ vn 0.000000 1.000000 -0.000000
 vn 0.000000 1.000000 -0.000000
 s 1
 g group2 Maria:Pared_tablones Maria:pasted__pasted__pasted__pasted__Pared_simple Maria:pasted__pasted__pasted__group Maria:pasted__pasted__group13 Maria:pasted__Pared_pequeña_simple_abandonado Maria:group
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 6896/9981/15439 6897/9982/15440 6904/9995/15441 6905/9996/15442
 s 2
 f 6943/10045/15443 6944/10046/15444 6901/9986/15445 6900/9985/15446
@@ -42821,7 +42821,7 @@ vn -0.999924 0.000000 0.012328
 vn -0.999924 0.000000 0.012328
 s 1
 g group2 Maria:Pared_ladrillos Maria:pasted__pasted__pasted__pCube2 Maria:pasted__pasted__grupo_ladrillos_pequeño_1 Maria:pasted__group Maria:pasted__Grupo_ladrillos_pequeño_2 Maria:group38
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 6966/10079/15555 6967/10080/15556 6960/10069/15557 6961/10070/15558
 s 2
 f 6954/10057/15559 6955/10058/15560 6968/10081/15561 6969/10084/15562
@@ -43022,7 +43022,7 @@ vn -0.999924 0.000000 0.012328
 vn -0.999924 0.000000 0.012328
 s 1
 g group2 Maria:Pared_ladrillos Maria:pasted__Grupo_ladrillos_pequeño_2 Maria:group38 Maria:pasted__pasted__pasted__pasted__pCube3 Maria:pasted__pasted__grupo_ladrillos_pequeño_1 Maria:pasted__group10
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 6998/10129/15619 6999/10130/15620 6992/10119/15621 6993/10120/15622
 s 2
 f 6986/10107/15623 6987/10108/15624 7000/10131/15625 7001/10134/15626
@@ -43223,7 +43223,7 @@ vn -0.999924 0.000000 0.012328
 vn -0.999924 0.000000 0.012328
 s 1
 g group2 Maria:Pared_ladrillos Maria:pasted__Grupo_ladrillos_grande Maria:group40 Maria:pasted__pasted__pasted__pCube2 Maria:pasted__pasted__group Maria:pasted__pasted__Grupo_ladrillos_grande
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 7030/10179/15683 7031/10180/15684 7024/10169/15685 7025/10170/15686
 s 2
 f 7018/10157/15687 7019/10158/15688 7032/10181/15689 7033/10184/15690
@@ -43424,7 +43424,7 @@ vn -0.999924 0.000000 0.012328
 vn -0.999924 0.000000 0.012328
 s 1
 g group2 Maria:Pared_ladrillos Maria:pasted__Grupo_ladrillos_grande Maria:pasted__Grupo_ladrillos_grande Maria:group40 Maria:pasted__pasted__pCube2 Maria:pasted__group1
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 7062/10229/15747 7063/10230/15748 7056/10219/15749 7057/10220/15750
 s 2
 f 7050/10207/15751 7051/10208/15752 7064/10231/15753 7065/10234/15754
@@ -43625,7 +43625,7 @@ vn -0.999924 0.000000 0.012328
 vn -0.999924 0.000000 0.012328
 s 1
 g group2 Maria:Pared_ladrillos Maria:pasted__Grupo_ladrillos_grande Maria:pasted__Grupo_ladrillos_grande Maria:group40 Maria:pasted__pasted__pCube2 Maria:pasted__group2
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 7094/10279/15811 7095/10280/15812 7088/10269/15813 7089/10270/15814
 s 2
 f 7082/10257/15815 7083/10258/15816 7096/10281/15817 7097/10284/15818
@@ -43826,7 +43826,7 @@ vn -0.999924 0.000000 0.012328
 vn -0.999924 0.000000 0.012328
 s 1
 g group2 Maria:Pared_ladrillos Maria:pasted__Grupo_ladrillos_grande Maria:pasted__Grupo_ladrillos_grande Maria:group40 Maria:pasted__pasted__pCube2 Maria:pasted__group3
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 7126/10329/15875 7127/10330/15876 7120/10319/15877 7121/10320/15878
 s 2
 f 7114/10307/15879 7115/10308/15880 7128/10331/15881 7129/10334/15882
@@ -44027,7 +44027,7 @@ vn -0.999924 0.000000 0.012328
 vn -0.999924 0.000000 0.012328
 s 1
 g group2 Maria:Pared_ladrillos Maria:pasted__Grupo_ladrillos_grande Maria:pasted__Grupo_ladrillos_grande Maria:group40 Maria:pasted__pasted__pCube2 Maria:pasted__group4
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 7158/10379/15939 7159/10380/15940 7152/10369/15941 7153/10370/15942
 s 2
 f 7146/10357/15943 7147/10358/15944 7160/10381/15945 7161/10384/15946
@@ -44228,7 +44228,7 @@ vn -0.999924 0.000000 0.012328
 vn -0.999924 0.000000 0.012328
 s 1
 g group2 Maria:Pared_ladrillos Maria:pasted__Grupo_ladrillos_grande Maria:pasted__Grupo_ladrillos_grande Maria:group40 Maria:pasted__pasted__pCube2 Maria:pasted__group5
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 7190/10429/16003 7191/10430/16004 7184/10419/16005 7185/10420/16006
 s 2
 f 7178/10407/16007 7179/10408/16008 7192/10431/16009 7193/10434/16010
@@ -44429,7 +44429,7 @@ vn -0.999924 0.000000 0.012328
 vn -0.999924 0.000000 0.012328
 s 1
 g group2 Maria:Pared_ladrillos Maria:pasted__Grupo_ladrillos_grande Maria:pasted__Grupo_ladrillos_grande Maria:group40 Maria:pasted__pasted__pCube2 Maria:pasted__group6
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 7222/10479/16067 7223/10480/16068 7216/10469/16069 7217/10470/16070
 s 2
 f 7210/10457/16071 7211/10458/16072 7224/10481/16073 7225/10484/16074
@@ -44630,7 +44630,7 @@ vn -0.999924 0.000000 0.012328
 vn -0.999924 0.000000 0.012328
 s 1
 g group2 Maria:Pared_ladrillos Maria:pasted__Grupo_ladrillos_grande Maria:pasted__Grupo_ladrillos_grande Maria:group40 Maria:pasted__pasted__pCube2 Maria:pasted__group7
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 7254/10529/16131 7255/10530/16132 7248/10519/16133 7249/10520/16134
 s 2
 f 7242/10507/16135 7243/10508/16136 7256/10531/16137 7257/10534/16138
@@ -44831,7 +44831,7 @@ vn -0.999924 0.000000 0.012328
 vn -0.999924 0.000000 0.012328
 s 1
 g group2 Maria:Pared_ladrillos Maria:pasted__Grupo_ladrillos_grande Maria:pasted__Grupo_ladrillos_grande Maria:group40 Maria:pasted__pasted__pCube2 Maria:pasted__group8
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 7286/10579/16195 7287/10580/16196 7280/10569/16197 7281/10570/16198
 s 2
 f 7274/10557/16199 7275/10558/16200 7288/10581/16201 7289/10584/16202
@@ -45032,7 +45032,7 @@ vn -0.999924 0.000000 0.012328
 vn -0.999924 0.000000 0.012328
 s 1
 g group2 Maria:Pared_ladrillos Maria:pasted__Grupo_ladrillos_pequeño_2 Maria:group38 Maria:pasted__pasted__pasted__pasted__pCube2 Maria:pasted__pasted__pasted__grupo_ladrillos_pequeño_1 Maria:pasted__pasted__group Maria:pasted__group11
-usemtl initialShadingGroup
+usemtl standardSurface4SG
 f 7318/10629/16259 7319/10630/16260 7312/10619/16261 7313/10620/16262
 s 2
 f 7306/10607/16263 7307/10608/16264 7320/10631/16265 7321/10634/16266
