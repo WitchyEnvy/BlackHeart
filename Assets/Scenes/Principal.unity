@@ -441,8 +441,13 @@ PrefabInstance:
       propertyPath: m_Name
       value: MAPA CON TEXTURA
       objectReference: {fileID: 0}
+    - target: {fileID: 2042023225869285003, guid: f20b5a33221b047488dc27cc308b4697, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 257.6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: -5266785677919700964, guid: f20b5a33221b047488dc27cc308b4697, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f20b5a33221b047488dc27cc308b4697, type: 3}
