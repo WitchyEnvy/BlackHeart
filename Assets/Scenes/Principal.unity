@@ -254,7 +254,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2797d22d11b97fe47be8131b6e25e709, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 231.56505
+      value: 231.56543
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2797d22d11b97fe47be8131b6e25e709, type: 3}
       propertyPath: m_LocalPosition.z
@@ -266,7 +266,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2797d22d11b97fe47be8131b6e25e709, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2797d22d11b97fe47be8131b6e25e709, type: 3}
       propertyPath: m_LocalRotation.y
@@ -481,8 +481,13 @@ PrefabInstance:
       propertyPath: m_Name
       value: MAPA CON TEXTURA
       objectReference: {fileID: 0}
+    - target: {fileID: 2042023225869285003, guid: f20b5a33221b047488dc27cc308b4697, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 257.6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: -5266785677919700964, guid: f20b5a33221b047488dc27cc308b4697, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f20b5a33221b047488dc27cc308b4697, type: 3}
