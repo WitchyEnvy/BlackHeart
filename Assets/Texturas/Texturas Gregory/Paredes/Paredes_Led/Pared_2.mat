@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Pared_2
-  m_Shader: {fileID: -6465566751694194690, guid: 9e093c005f292d14ead6edad0577fe40, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 27a6b6a4d39f8914dbad7382daab9860, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
