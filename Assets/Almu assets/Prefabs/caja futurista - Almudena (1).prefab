@@ -63,7 +63,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: fc1530163dedb5145a8719cf98d57708, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 18b61d49a2863a746b64f676b4b3f84b, type: 2}
+      objectReference: {fileID: 2100000, guid: 6f650f4ecac088a4786c38573785aa1c, type: 2}
     - target: {fileID: 919132149155446097, guid: fc1530163dedb5145a8719cf98d57708, type: 3}
       propertyPath: m_Name
       value: caja futurista - Almudena (1)
